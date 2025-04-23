@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Very first post"
 date:   2025-02-13
 categories: update
