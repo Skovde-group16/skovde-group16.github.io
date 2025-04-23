@@ -1,0 +1,36 @@
+---
+layout: single
+title:  "Day Two - Nerdy Finds & IPv6"
+date:   2025-04-23
+categories: update
+author: Sara Bilic
+---
+
+We kicked off the day at our usual time — 9 o'clock — at the University of Skövde in building D.  
+
+![University of Skövde Building](/assets/images/day2/skovde-building.jpg)
+
+## New Challenges
+
+With the CTF now in full swing, today's update brought a fresh batch of challenges. The new tasks covered a range of topics including **radio signal analysis**, **math puzzles**, and one particularly creative challenge inspired by **Swedish folklore**, categorized as *mysterious*.  
+
+A few of the existing challenges were also updated — some received helpful hints, while others were raised in point value, increasing the stakes and giving teams a chance to earn bigger rewards.  
+
+## IPv6 Lecture
+
+At 13:00, we attended a lecture on **IPv6**, given by **Nico Declerck**, a teacher from Howest and one of the mentors involved in the program.  
+
+![IPv6 Lecture](/assets/images/day2/ipv6-lecture.jpg)
+
+The talk offered an informative overview of the transition from IPv4 to IPv6. Rather than going deep into technical details, the session focused on the broader shift, key challenges, and what future IT professionals should be aware of as this change continues to unfold. It served as a good reminder of how our industry is constantly evolving.  
+
+Besides that, it was educative to see how Belgium and Sweden are different on technological evolution. This lead to rather interesting and daring takes from students during the lecture!  
+
+## Exploring The University
+
+Later in the afternoon, some CTF tasks took us across campus to search for clues or context. During this exploration, we came across some fascinating **tech exhibits** in the D building, where our lab sessions are also held.  
+
+![Motherboard Collection](/assets/images/day2/motherboards-collection.jpg)  
+![Disk Collection](/assets/images/day2/disk-collection.jpg)
+
+These displays featured **old motherboards**, **storage media**, and other hardware relics, giving us a small glimpse into the tech that helped shape where we are today. A nice bit of inspiration between all the puzzling and problem-solving.
