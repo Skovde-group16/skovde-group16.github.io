@@ -4,7 +4,7 @@ title: Meet the team
 permalink: /members/
 ---
 
-![Group photo](assets\images\group-photo.jpg)
+![Group photo](..\assets\images\group-photo.jpg)
 
 **Aaron Deceuninck**
 
