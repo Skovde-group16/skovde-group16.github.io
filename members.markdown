@@ -1,8 +1,10 @@
 ---
 layout: single
-title: Members
-permalink: /members
+title: Meet the team
+permalink: /members/
 ---
+
+![Group photo](assets\images\group-photo.jpg)
 
 **Aaron Deceuninck**
 
