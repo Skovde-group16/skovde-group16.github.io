@@ -16,7 +16,7 @@ The previously unsolved challenges were updated with hints, and even had their p
 
 ## Something new, and something unexpected from the past
 
-On the other hand , the new challenges were also quite interesting. For example, we had a challenge where we had to explore New York from the Empire State Building and look for clues by using a high resolution image. The clues included buildings, street names, symbols on buildings and as a result. We had to combine all of these to find the flag. It was definitely an engaging challenge!
+On the other hand , the new challenges were also quite interesting. For example, we had a challenge where we had to explore New York from the Empire State Building and look for clues by using a high resolution image. The clues included buildings, street names, symbols on buildings. As a result we had to combine all of these to find the flag. It was definitely an engaging challenge!
 
 ![High resolution image from the Empire State Building](/assets/images/day3/new-york.jpg)
 
