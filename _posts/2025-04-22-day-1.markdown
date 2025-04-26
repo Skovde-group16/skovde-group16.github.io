@@ -1,0 +1,35 @@
+---
+layout: single
+title:  "Day one - Introduction + Briefing = CTF Challenge Start!"
+date:   2025-04-22
+categories: update
+author: Andy De Schuytener
+---
+
+During the very first day of the security project in Skovde, we started with getting to know the environement and the location where we would spend the rest of the week. We met our Swedish collegues with whom we'd be spending a lot of time with this week.
+
+ The Swedish teacher duo responsible for the **NSA** (Network & System Administration) course, ![Johan Zaxmy](https://www.his.se/en/about-us/staff/johan.zaxmy/) and ![Johan Zaxmy](https://www.his.se/en/about-us/staff/jonas.ingemarsson/) gave a briefing on the CTF challenge and on the proceedings of the week. During this briefing we also got organised into our respective teams.
+
+![Briefing](/assets/images/day1/briefing.jpg)
+
+![Team](/assets/images/day1/team.jpg)
+
+ ## Challenge Start
+
+Around 10AM we finished the briefing and introductions, so we got started with the CTF challenge. The challenge platform went live, our team got dubbed the name 'Master Koks' and one of the swedish teammembers was appointed teamcaptain. Ready to go, challenge start!
+
+![Challenges](/assets/images/day1/challenges.jpg)
+
+Something about the challenges immediatly became clear: a lot of riddles would be involved. Now seems about the right time to mention that I also participated in the Cyber Security Challenge Belgium (CSCBE short). Because of this I already had some idea of what to expect of a CTF challenge. The big difference here were the riddles, so this wasnt going to be easy!
+
+## Finishing up
+
+We spend the rest of the morning solving and figuring out challenges. Repeat for the afternoon after having lunch in the student restaurant on campus. Suprisingly the food was amazing. 
+
+We closed out the day around 5PM in a tie for first place. We've had a very productive day and gained a good feel on the structure of most challenges.
+
+## Kappa Bar
+
+We finished the day by going to the Kappa Bar in the city center of Skovde. This is a great place for hanging out after school. The bar has several tables set up with monitors and game consoles. So while having a drink you're able to play some games with friends! Here we also got our first introductions to the beers Sweden has to offer. We made sure to have a taste of most of them before heading to bed. All in all a great start to what I assume will be an amazing week in Skovde, Sweden.
+
+![Kappa Bar](/assets/images/day1/kappabar.jpg)

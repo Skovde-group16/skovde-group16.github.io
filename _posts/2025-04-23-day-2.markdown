@@ -30,7 +30,8 @@ Besides that, it was educative to see how Belgium and Sweden are different on te
 
 Later in the afternoon, some CTF tasks took us across campus to search for clues or context. During this exploration, we came across some fascinating **tech exhibits** in the D building, where our lab sessions are also held.  
 
-![Motherboard Collection](/assets/images/day2/motherboards-collection.jpg)  
+![Motherboard Collection](/assets/images/day2/motherboards-collection.jpg)
+
 ![Disk Collection](/assets/images/day2/disk-collection.jpg)
 
 These displays featured **old motherboards**, **storage media**, and other hardware relics, giving us a small glimpse into the tech that helped shape where we are today. A nice bit of inspiration between all the puzzling and problem-solving.
