@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day Three - Capture the spirit of competition"
+title:  "Day 3 - Capture the spirit of competition"
 date:   2025-04-24
 categories: update
 author: Zalán Hegedüs
