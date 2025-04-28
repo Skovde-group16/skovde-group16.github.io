@@ -1,0 +1,30 @@
+---
+layout: single
+title:  "Day Three - Capture the spirit of competition"
+date:   2025-04-24
+categories: update
+author: Zalán Hegedüs
+---
+
+New day, new challenges! At (roughly) 9 o'clock, we started our day in the NSA lab at building D with a few new challenges.
+
+![Skövde University](/assets/images/day3/skovde-university.jpg)
+
+## Increasing the stakes
+
+The previously unsolved challenges were updated with hints, and even had their point values increased. It's not a surprise that many teams started focusing on these tasks, including the famous **"Audio signal challenges"** with and encrypted message and the impossible **"Impossible"** riddle, which as of today, is still unsolved and now worth twice as many points!
+
+## Something new, and something unexpected from the past
+
+On the other hand , the new challenges were also quite interesting. For example, we had a challenge where we had to explore New York from the Empire State Building and look for clues by using a high resolution image. The clues included buildings, street names, symbols on buildings. As a result we had to combine all of these to find the flag. It was definitely an engaging challenge!
+
+![High resolution image from the Empire State Building](/assets/images/day3/new-york.jpg)
+
+Do you remember when you were struggling with something in a class and question yourself: *"Why do I need to know this? I am never going to use that!"* Well, today we had a challenge that was a perfect example of that.
+
+The task was to calculate the total resistance of a circuit, with a twist: the circuit was containing a variety of resistors with different color of bands, and we had to calculate the value of the resistors based on the color codes. It was not a smooth ride, since we needed the **exact** value of the total resistance, and believe me, the numbers were not friendly looking!
+
+![Resistor values](/assets/images/day3/resistors.jpg)
+
+
+
