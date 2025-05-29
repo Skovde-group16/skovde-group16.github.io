@@ -1,0 +1,65 @@
+---
+layout: single
+title: "Day 4 - Final Challenges & Reflections"
+date: 2025-04-25
+categories: update
+author: Andres Harinck & Gianni De Jaeger
+---
+
+On this sunny Friday, we started the day a bit earlier than usual.   
+
+## Race to the Finish
+
+As it was nearly the end of the CTF, with only one hour to go, the final stage of the race had started! We arrived a bit earlier on campus to get the most out of it before it ended. Two groups, including my own, were going head to head for second place. The group that was placed first, already had a massive lead because they solved the challenge that was worth the most points. This challenge was named **"Impossible"** and was unsolvable in the beginning. There was literally no correct answer to this one. One of our teammates spent almost all of his time trying to crack it. Because the teachers were feeling sorry for us and especially for that one teammate, they decided on the third day to add some answers to this challenge (more on this later). Also this day a group even managed to guess one of the answers! 
+
+While my group had been on second place for some time with a big lead on the third place, the final day they started to catch us very rapidly. You can only imagine how high the heat was. 
+
+## Last Minute Challenges and Winners
+
+At 10:00 sharp, the competition wrapped up and the results were in. The winning team was announced to lots of cheers and applause, and they totally deserved it. As a prize, they got some nice hoodies, which were a pretty cool reward and a perfect souvenir!
+
+![Winning Team Celebration](/assets/images/day4/WinningTeam.jpg)
+
+## Cultural Reflections
+
+After all the excitement, we slowed things down a bit and had a reflection session. We needed to reflect on how our cultural differences influenced the way we worked together throughout the week.
+
+We started this discussion in our own project groups, thinking back on how things like communication styles, problem-solving approaches, and teamwork might have been shaped by our different backgrounds. It was interesting (and sometimes surprising) to realize just how much these differences played a role.
+
+![Reflection Phase](/assets/images/day4/reflection.jpg)
+
+After we talked in our groups, the teacher opened up the discussion to the whole room. This gave everyone a chance to share their thoughts and hear others' experiences too.
+
+## Group Photos
+
+Before heading into the afternoon, we grabbed the chance to take a bunch of group photos. We took one with the whole class, and of course, one with our blog team — the crew behind these daily updates!
+
+![Blog Team](/assets/images/day4/BlogTeam.jpg)
+
+These pics are definitely going to be great memories to look back on.
+
+## Recap and Solutions
+
+During the lunch break we enjoyed our final meal at the campus restaurant, which, like on previous days, felt restaurant-worthy! After this there was a recap and an overview with the solutions to the (harder) challenges. This was normally not part of the planning, but because we requested this they decided to still add this. It was interesting to hear how they came up with the challenges and what the solutions were. Especially the "Impossible" challenge: the first solution they added was the name of our teammate that spent 90% of his time trying to find the answer. Eventually they added the first names of all students. 
+
+## Sightseeing
+
+In the afternoon some of us decided to go sightseeing around Skövde, while others had already headed to the airport or spent their remaining time exploring the city center. We took the car and drove to a place called Ryttmästarbostället, a beautiful quiet location in the woods by the lake. It offered a lot of history about Sweden and was filled with old wooden houses and even some very old cannons. It is best described as an open-air museum.
+
+![Ryttmästarbostället](/assets/images/day4/canon.jpg)
+![Ryttmästarbostället](/assets/images/day4/rytmastar2.jpg)
+![Ryttmästarbostället](/assets/images/day4/rytmastar.jpg)
+
+After this we went to explore in and around Skövde. On this route we came across a gigantic golf course as well, which was impressive to see. We started with a visit to a park next to the city and then drove to the city center itself to continue our sightseeing on this wonderful sunny day.
+
+![park lake](/assets/images/day4/park2.jpg)
+![park statue](/assets/images/day4/park.jpg)
+
+
+To conclude the day we went to our stay, made ourselves some food, and enjoyed our last Swedish beers before heading back to Belgium the next day. 
+
+![final evening](/assets/images/day4/finalevening.jpg)
+
+## Conclusion
+
+It was a rewarding and memorable week full of teamwork, learning, laughs, and making friends from all over. Until next time!  

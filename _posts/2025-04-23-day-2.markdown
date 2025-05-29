@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 2 - Nerdy Finds & IPv6"
+title:  "Day Two - Nerdy Finds & IPv6"
 date:   2025-04-23
 categories: update
 author: Sara Bilic
@@ -12,26 +12,39 @@ We kicked off the day at our usual time — 9 o'clock — at the University of S
 
 ## New Challenges
 
-With the CTF now in full swing, today's update brought a fresh batch of challenges. The new tasks covered a range of topics including **radio signal analysis**, **math puzzles**, and one particularly creative challenge inspired by **Swedish folklore**, categorized as *mysterious*.  
+With the CTF now in full swing, today's update brought a fresh batch of challenges. The variety is impressive — tasks ranged from **radio signal analysis** and **math puzzles** to more abstract **riddles** and culture-inspired enigmas categorized under the *mysterious* section. This mix has kept us on our toes and encouraged a wide range of approaches — from logic and teamwork to pure trial and error.  
 
-A few of the existing challenges were also updated — some received helpful hints, while others were raised in point value, increasing the stakes and giving teams a chance to earn bigger rewards.  
+One standout challenge was titled **"What the Quack"**, which definitely caused a stir. In this bizarre task, we were given a YouTube video featuring University of Skövde lecturers — but with their voices replaced by duck quacking sounds. While it may sound humorous (and it was), the challenge itself turned out to be quite tricky. The goal was to decode the original message, but it caused **so much confusion** that some teams began speculating that **the next part of the challenge might involve physical clues hidden somewhere around campus**!  
+
+Other challenges also took a deep cultural turn — some were directly related to **Swedish folklore and traditions**, pushing us to work more closely with the **Swedish NSA students** to fully understand the context. These culture-based tasks turned out to be not only fun and informative but also a great way to foster collaboration across the international teams.  
+
+As the competition progressed, **some of the unsolved challenges received extra hints** from the lecturers and mentors. These tips were subtle but helpful in nudging teams forward. Additionally, a few challenges had their **point values raised**, making them even more worth pursuing.  
+
+It’s also worth noting that while we work together on this blog, we're all competing in **different groups** during the CTF itself. This dynamic adds a healthy layer of **competition among us**, while still giving us a platform to share a collective experience. Interestingly, we’ve managed to have **a blog team member in nearly every competition group**, giving us a unique overview of how the event is progressing from multiple perspectives.  
 
 ## IPv6 Lecture
 
-At 13:00, we attended a lecture on **IPv6**, given by **Nico Declerck**, a teacher from Howest and one of the mentors involved in the program.  
+At 13:00, we gathered in one of the lecture rooms for a session on **IPv6**, presented by **Nico Declerck**, a teacher from Howest and one of the mentors involved in our international program.    
 
 ![IPv6 Lecture](/assets/images/day2/ipv6-lecture.jpg)
 
-The talk offered an informative overview of the transition from IPv4 to IPv6. Rather than going deep into technical details, the session focused on the broader shift, key challenges, and what future IT professionals should be aware of as this change continues to unfold. It served as a good reminder of how our industry is constantly evolving.  
+The lecture started with a **brief historical recap** of how **IPv4 was developed**, and why it eventually became insufficient due to the explosion of internet-connected devices. Nico then introduced **IPv6** — not just as a technical evolution, but as a necessary step forward to support the growing digital landscape.  
 
-Besides that, it was educative to see how Belgium and Sweden are different on technological evolution. This lead to rather interesting and daring takes from students during the lecture!  
+He explained the **key differences** between the two protocols, particularly in address space, efficiency, and built-in security features. We also explored the **current state of global IPv6 adoption**, including why **some countries are further behind** in implementation. In some cases, it's due to legacy infrastructure, while in others, there’s simply less urgency due to regional network demands.  
+
+A large part of the discussion revolved around the **practical application of IPv6** — how it’s being rolled out today, and the transitional mechanisms used to bridge the gap between IPv4 and IPv6 systems. It was interesting to see how differently **Sweden and Belgium**, for example, are approaching this shift. Belgium is already quite advanced in some areas, whereas Sweden still relies heavily on IPv4 in many sectors. This led to a few **interesting questions and daring opinions from students**, especially around what adoption might look like in the next five to ten years.  
+
+The lecture wasn’t overly technical, but it gave us a strong foundational understanding and increased our awareness of how such fundamental technologies affect the bigger picture in IT — both regionally and globally.  
 
 ## Exploring The University
 
-Later in the afternoon, some CTF tasks took us across campus to search for clues or context. During this exploration, we came across some fascinating **tech exhibits** in the D building, where our lab sessions are also held.  
+Later in the afternoon, some CTF tasks led us out across the university campus in search of context clues. These physical components added an engaging, real-world layer to the competition and gave us a break from the screen-heavy problem-solving.  
 
-![Motherboard Collection](/assets/images/day2/motherboards-collection.jpg)
+During our exploration, we came across some fascinating **tech exhibits** in the D building, where our lab sessions are held.  
 
+![Motherboard Collection](/assets/images/day2/motherboards-collection.jpg)  
 ![Disk Collection](/assets/images/day2/disk-collection.jpg)
 
-These displays featured **old motherboards**, **storage media**, and other hardware relics, giving us a small glimpse into the tech that helped shape where we are today. A nice bit of inspiration between all the puzzling and problem-solving.
+The displays included **vintage motherboards**, **storage media**, and other old-school hardware. It’s like stumbling into a small, unexpected tech museum in between challenges — a cool nod to the evolution of computing and how far things have come.  
+
+Between cracking codes, decoding duck videos, learning about folklore, and revisiting internet history, day two was packed with variety and surprises. The teamwork, cultural exchange, and steady stream of “aha” moments are what make this experience more than just a competition — and we’re just getting started.  
