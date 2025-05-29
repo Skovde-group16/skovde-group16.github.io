@@ -1,0 +1,44 @@
+Sara Bilic:
+  name        : "Sara Bilic"
+  avatar      : "/assets/images/authors/sara.jpg"
+  links:
+    - label: "Leho"
+      icon: "fas fa-fw fa-link"
+      url: "https://leho-howest.instructure.com/groups/67701/users/43432"
+
+Aaron Deceuninck:
+  name        : "Aaron Deceuninck"
+  links:
+    - label: "Leho"
+      icon: "fas fa-fw fa-link"
+      url: "https://leho-howest.instructure.com/groups/67701/users/43084"
+
+Andy De Schuytener:
+  name        : "Andy De Schuytener"
+  avatar      : "/assets/images/authors/andy.jpg"
+  links:
+    - label: "Leho"
+      icon: "fas fa-fw fa-link"
+      url: "https://leho-howest.instructure.com/groups/67701/users/45061"
+
+Zalán Hegedüs:
+  name        : "Zalán Hegedüs"
+  avatar      : "/assets/images/authors/zalan.jpg"
+  links:
+    - label: "Leho"
+      icon: "fas fa-fw fa-link"
+      url: "https://leho-howest.instructure.com/groups/67701/users/44074"
+
+Andres Harinck:
+  name        : "Andres Harinck"
+  links:
+    - label: "Leho"
+      icon: "fas fa-fw fa-link"
+      url: "https://leho-howest.instructure.com/groups/67701/users/45516"
+
+Gianni De Jaeger:
+  name        : "Gianni De Jaeger"
+  links:
+    - label: "Leho"
+      icon: "fas fa-fw fa-link"
+      url: "https://leho-howest.instructure.com/groups/67701/users/46926"
