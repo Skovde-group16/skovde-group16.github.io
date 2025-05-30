@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.75"
   overlay_image: /assets/images/skovde-uni.jpg
 title: "Hey there"
-excerpt: "Follow along with six students from Howest on our activities during the security project in Skovde, Sweden!"
+excerpt: "Follow along with six students from Howest on our activities during the security project in Skövde, Sweden!"
 feature_row:
   - title: "Welcome"
     excerpt: "We’re a group of students in Skövde working on a cybersecurity project and sharing the ride. Tech wins, daily chaos, and all. Glad you’re here!"
