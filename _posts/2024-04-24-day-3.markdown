@@ -12,27 +12,27 @@ New day, new challenges! At (roughly) 9 o'clock, we started our day in the NSA l
 
 ## Increasing the stakes
 
-The previously unsolved challenges were updated with hints, and even had their point values increased. It's not a surprise that many teams started focusing on these tasks, including the famous **"Audio signal challenges"** with and encrypted message and the impossible **"Impossible"** riddle, which as of today, is still unsolved and now worth twice as many points!
+The previously unsolved challenges were updated with hints, and even had their point values increased. It's not a surprise that many teams started focusing on these tasks, including the famous **"Audio signal challenges"** with an encrypted message and the **"Impossible"** riddle, which as of today is still unsolved and now worth twice as many points!
 
 ## Something new, and something unexpected from the past
 
-On the other hand , the new challenges were also quite interesting. For example, we had a challenge where we had to explore New York from the Empire State Building and look for clues by using a high resolution image. The clues included buildings, street names, symbols on buildings. As a result we had to combine all of these to find the flag. It was definitely an engaging challenge!
+On the other hand the new challenges were also quite interesting. For example, we had a challenge where we had to explore New York from the Empire State Building and look for clues by using a high resolution image. The clues included buildings, street names and symbols on buildings. As a result we had to combine them all to find the flag. It was definitely an engaging challenge!
 
 ![High resolution image from the Empire State Building](/assets/images/day3/new-york.jpg)
 
-Do you remember when you were struggling with something in a class and question yourself: *"Why do I need to know this? I am never going to use that!"* Well, today we had a challenge that was a perfect example of that.
+Do you remember when you were struggling with something in a class and ask yourself: *"Why do I need to know this? I am never going to use that!"* Well, today we had a challenge that was a perfect example of that.
 
-The task was to calculate the total resistance of a circuit, with a twist: the circuit was containing a variety of resistors with different color of bands, and we had to calculate the value of the resistors based on the color codes. It was not a smooth ride, since we needed the **exact** value of the total resistance, and believe me, the numbers were not friendly looking!
+The task was to calculate the total resistance of a circuit, with a twist: the circuit contained a variety of resistors with different colored bands, and we had to calculate the value of the resistors based on the color codes. It was not a smooth ride, since we needed the **exact** value of the total resistance, and believe me, the numbers were not friendly looking!
 
 ![Resistor values](/assets/images/day3/resistors.jpg)
 
 ## Not so Swedish dinner
 
-The day was both challenging for the brain and stomach. And I needed something realiable, something that never dissapoints, and most importantly, something that is not pizza! It pretty much narrows down the options to one: **burgers!**.
+The day was both challenging for the brain and stomach. And I needed something reliable, something that never disappoints, and most importantly, something that is not pizza! It pretty much narrows down the options to one: **burgers!**.
 
-It didn't take long until a found a place which serves Brooklyn style burgers. The place was suprsingly empty but it seemed like it was overshadowed by a nearby pub which was packed with people. Altough, they still received a lot of delivery orders, so I was not the only one who thought that burgers are a good idea, and I had high hopes for the food! Well.. not so Swedish but hey, it called "Brooklyn style" for a reason, right?
+It didn't take long until I found a place which serves Brooklyn style burgers. The place was surprisingly empty but it seemed like it was overshadowed by a nearby pub which was packed with people. Although, they still received a lot of delivery orders, so I was not the only one who thought that burgers are a good idea, and I had high hopes for the food! Well.. not so Swedish but hey, it's called "Brooklyn style" for a reason, right?
 
-The price and the size of the burger was pretty decent, and the taste was also good. And let's not forget that the mustard was free! At first I was a bit uncomfortable because I noticed the fork and knife on the table and I was unsure if it's supposed to be one of those fancy places where you eat with a fork and knife. But that's a universal rule, the messier your hands get, the better the food is and I went with the "barbarian" eating style.
+The price and the size of the burger were pretty decent, and the taste was also good. And let's not forget that the mustard was free! At first I was a bit uncomfortable because I noticed the fork and knife on the table and I was unsure if it was supposed to be one of those fancy places where you eat with a fork and knife. But that's a universal rule, the messier your hands get, the better the food is and I went with the "barbarian" eating style.
 
 
 ![The famous Brookly burger](/assets/images/day3/burger.jpg)
