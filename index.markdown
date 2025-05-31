@@ -17,7 +17,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Blog"
   - title: "The team"
-    excerpt: "Meet the awesome team behind group 16. Get to know the faces behind the project right here!"
+    excerpt: "Meet the awesome team behind group 2. Get to know the faces behind the project right here!"
     url: "/members/"
     btn_class: "btn--primary"
     btn_label: "Team"
